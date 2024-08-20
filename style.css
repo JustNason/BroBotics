@@ -107,7 +107,7 @@ p3 {
 }
 
 .discord:after {
-  content: 'DISCORD';
+  content: '\00bb';
   font-family: "Righteous", sans-serif;
   position: absolute;
   opacity: 0;
